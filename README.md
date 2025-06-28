@@ -1,0 +1,1 @@
+This script utilizes a network traffic sniffer to monitor all incoming requests for particular IP addresses. This also has the ability to send email notifications VIA SMTP whenever an unwanted connection is made.
